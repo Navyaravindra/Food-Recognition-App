@@ -1,26 +1,26 @@
-# 🍛 Indian Food Recognition App
+#  Indian Food Recognition App
 
 This is a deep learning-based application that recognizes different Indian food items using image classification techniques.
 
-## 📌 Project Overview
+##  Project Overview
 
 The Food Recognition App is designed to assist in identifying Indian dishes from images. It uses a Convolutional Neural Network (CNN) trained on a custom dataset of Indian foods like dosa, biryani, idli, samosa, and more.
 
-## 💡 Features
+##  Features
 
 - Upload or capture food images.
 - Predict the Indian dish with confidence score.
 - Trained using TensorFlow/Keras.
 - User-friendly Streamlit interface.
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Integration with nutrition data for health tracking.
 - Support for multiple cuisines and languages.
 - Mobile app deployment for real-time recognition.
 - Integration with restaurant APIs or diet planning tools.
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
 
