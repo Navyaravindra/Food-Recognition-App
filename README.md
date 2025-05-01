@@ -4,7 +4,7 @@ This is a deep learning-based application that recognizes different Indian food 
 
 ##  Project Overview
 
-The Food Recognition App is designed to assist in identifying Indian dishes from images. It uses a Convolutional Neural Network (CNN) trained on a custom dataset of Indian foods like dosa, biryani, idli, samosa, and more.
+The Food Recognition App is designed to assist in identifying Indian dishes from images. It uses a Convolutional Neural Network (CNN) trained on a custom dataset of Indian foods like aloo gobbi,aloo tikki, biryani,butter chicken ,chana masala,chicken razala,chicken tikka,gulab jamun,palak paneer and paneer butter masala.
 
 ##  Features
 
